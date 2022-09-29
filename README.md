@@ -1,4 +1,3 @@
-A 
 Data analysis and visualizations of Covid daily death trends in Oregon state 
 
 Programming Language: Python
